@@ -1,2 +1,5 @@
 # automatic_dataset_generation
 Robotics and Aritificial Intelligence final project
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PSGrWwR8Rug)
+
