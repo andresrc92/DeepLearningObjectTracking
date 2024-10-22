@@ -8,9 +8,9 @@ Robotics and Aritificial Intelligence Final Project
 </a>
 
 
-[[Fails video demo]]([https://www.youtube.com/watch?v=PSGrWwR8Rug](https://www.youtube.com/watch?v=fr0bChb5D0w))
+[[Fails video demo]](https://www.youtube.com/watch?v=fr0bChb5D0w)
 
-<a href="https://www.youtube.com/watch?v=PSGrWwR8Rug">
+<a href="https://www.youtube.com/watch?v=fr0bChb5D0w">
 <img src="./thumb.jpg" alt="image" width="300" height="auto"/>
 </a>
 
